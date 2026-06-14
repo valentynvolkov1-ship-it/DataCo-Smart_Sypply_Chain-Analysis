@@ -28,10 +28,10 @@ Based on the analysis, the following key metrics were uncovered:
  
 ## 📈 Dashboard Preview 
 
-![Tableau Dashboard](([https://github.com/valentynvolkov1-ship-it/DataCo-Smart_Sypply_Chain-Analysis/blob/67b07e065a03580551b0c1ad6c454565b1c150ed/Dashboard%201.png])) 
+![Tableau Dashboard](https://github.com/valentynvolkov1-ship-it/DataCo-Smart_Sypply_Chain-Analysis/blob/67b07e065a03580551b0c1ad6c454565b1c150ed/Dashboard%201.png) 
 
  
-🔗 **[View Interactive Tableau Dashboard Here]((https://public.tableau.com/views/GlobalLogisticDeliveryPerfomanceDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))** 
+🔗 **[View Interactive Tableau Dashboard Here](https://public.tableau.com/views/GlobalLogisticDeliveryPerfomanceDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** 
 
  
 ## 💻 SQL Queries Used 
